@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paulgpt12
-- 👀 I’m interested in: a lot...however mostly im interested in learning new stuff;)
+- 👀 I’m interested in: a lot...however mostly i am interested in learning new stuff;)
 - 🌱 I’m currently learning how to code in python
 - 📫 How to reach me: via e-mail
 
