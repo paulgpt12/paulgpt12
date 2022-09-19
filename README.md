@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paulgpt12
-- 🌱 I’m currently learning how to code python
+- 🌱 I am a student from germany and new to programming. My bachelor subject is biomathematics and biophysics.
 - 📫 How to reach me: via e-mail
 
 <!---
