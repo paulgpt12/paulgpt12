@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @paulgpt12
-- 🌱 I am a student from germany and new to programming. My bachelor subject is biomathematics and biophysics.
+- 🌱 I am a student from germany. My bachelor subject is biomathematics and biophysics.
+- 🌱 As part of my bachelor studies, I learned the programming languages R and Python.
 - 📫 How to reach me: via e-mail
 
 <!---
